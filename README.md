@@ -1,11 +1,12 @@
 # RivaTuner Statistics Server Overlay Configuration Files
 
-<table border="0">
-  <tr>
-    <td><img src="https://imgur.com/Ra8bakI.png" width="400"></td>
-    <td valign="top" align="left">A collection of RivaTuner Statistics Server (RTSS) overlay config files for customizable system monitoring. These pre-configured layouts display real-time CPU, GPU, RAM, and other system stats in an easy-to-read format while gaming.</td>
-  </tr>
-</table>
+A collection of RivaTuner Statistics Server (RTSS) overlay config files for customizable system monitoring. These
+pre-configured layouts display real-time CPU, GPU, RAM, and other system stats in an easy-to-read format while gaming.
+
+Sample image with AMD CPU and Nvidia GPU:
+<p align="center">
+<img alt="Screenshot" src="https://imgur.com/Ra8bakI.png" height="300"/>
+</p>
 
 ## Installation
 
