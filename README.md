@@ -5,7 +5,7 @@ pre-configured layouts display real-time CPU, GPU, RAM, and other system stats i
 
 Sample image with AMD CPU and Nvidia GPU:
 <p align="center">
-<img alt="Screenshot" src="https://imgur.com/Ra8bakI.png" height="300"/>
+<img alt="Screenshot" src="https://imgur.com/Ra8bakI.png" height="500"/>
 </p>
 
 ## Installation
